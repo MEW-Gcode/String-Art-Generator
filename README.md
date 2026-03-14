@@ -42,4 +42,5 @@ This project is licensed under the MIT License. Please cite if you use the softw
 ---------
 The software is provided as a standalone executable (.exe).
 No installation of Python or additional libraries is required.
+Please click 'String art to G-code.exe' file and click download raw file button to download the software from github.
 
